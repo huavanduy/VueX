@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Xiaomi Redmi Note 11",
+    "price": 4690000,
+    "description": "Xiaomi Redmi Note 11 - Lựa chọn hàng đầu phân khúc giá rẻ Nếu như Redmi Note 10 là một trong những điện thoại tốt nhất ở thời điểm hiện tại với camera tuyệt vời, thiết kế cao cấp cùng mức giá khá ấn tượng thì người dùng lại hi vọng vào phiên bản mới mang tên Redmi Note 11 với những nâng cấp nổi bật. Chắc chắn những thông số xung quanh mẫu điện thoại Xiaomi mới này vẫn đang là một ẩn số đối với người hâm mộ.",
+    "url": [
+      {
+        "id": "1",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/8/0/800x800-1-640x640-5_2.png"
+      },
+      {
+        "id": "2",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/8/0/800x800-1-640x640-5_2_1.png"
+      }
+    ],
+    "sale": 0,
+    "quantity": 10,
+    "status": true
+  },
+  {
+    "id": "2",
+    "name": "OPPO A16K",
+    "price": 3450000,
+    "description": "Đánh giá Oppo A16K – Smartphone giá rẻ, thiết kế tinh tế Oppo luôn mang đến những dòng smartphone giá rẻ nhưng vẫn sở hữu hiệu năng được nhiều người dùng đánh giá cao. Oppo A16K chính là mẫu smartphone mới được Oppo ra mắt và cũng thuộc phân khúc giá rẻ với thiết kế đơn giản nhưng tinh tế cùng với hiệu năng mạnh mẽ.",
+    "url": [
+      {
+        "id": "1",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/o/p/oppo-a16k-4g-151121-031725-600x600_2.jpg"
+      },
+      {
+        "id": "2",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/o/p/oppo-a16k-4g-002_1.jpg"
+      }
+    ],
+    "sale": 0,
+    "quantity": 10,
+    "status": true
+  },
+  {
+    "id": "3",
+    "name": "Samsung Galaxy A12",
+    "price": 3500000,
+    "description": "Điện thoại Samsung Galaxy A12 – Smartphone giá rẻ cấu hình tốt và pin trâu Samsung A12 là một chiếc smartphone giá rẻ nhưng sở hữu cấu hình ổn định cùng với viên pin 5000mAh cho thời lượng suốt ngày dài. Bên cạnh đó điện thoại cũng sở hữu thiết kế thời trang và phù hợp với xu hướng.",
+    "url": [
+      {
+        "id": "1",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-a12_2__2_1.jpg"
+      },
+      {
+        "id": "2",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/s/a/samsung-galaxy-a12_3__3_1.jpg"
+      }
+    ],
+    "sale": 0,
+    "quantity": 10,
+    "status": true
+  },
+  {
+    "id": "4",
+    "name": "Samsung Galaxy A03 (3GB - 32GB)",
+    "price": 2800000,
+    "description": "Đánh giá Samsung Galaxy A03 - Điện thoại giá rẻ ấn tượng Để mang đến cho người dùng nhiều lựa chọn hơn trong phân khúc giá rẻ, gã khổng lồ Hàn Quốc tiếp tục cho ra mắt chiếc điện thoại mang tên Samsung A03 với mức giá hấp dẫn. Sản phẩm với thiết kế quen thuộc cùng nhiều nâng cấp mới, đây sẽ là chiếc smartphone độc đáo và tiện ích cho người dùng.",
+    "url": [
+      {
+        "id": "1",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/s/c/screenshot_4_25_1.png"
+      },
+      {
+        "id": "2",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/a/0/a03-900x900-den-02_1.jpg"
+      },
+      {
+        "id": "3",
+        "url": "https://image.cellphones.com.vn/358x/media/catalog/product/t/_/t_i_xu_ng_3__4.png"
+      }
+    ],
+    "sale": 0,
+    "quantity": 10,
+    "status": true
+  }
+]
